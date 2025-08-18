@@ -13,4 +13,11 @@ def read_root():
     return {"mensaje": "Hola, FastAPI está funcionando!"}
 # uvicorn main:app --reload (terminal para correr el servidor)
 
+#Para subirlo a github:
+#siempre empezaer a programar con un git pull por si la otra persona subió algo
+# 1. ver que github  este iniciado en VS Code
+# 2. git add nombre_del_archivo.py o git add . (para agregar todos los archivos)
+# 3. git commit -m "descripción del la actualización" (puedo hcer varios commits antes de subirlo)
+# 4. git push (sube los cambios al repositorio remotoen internet)
+
 
